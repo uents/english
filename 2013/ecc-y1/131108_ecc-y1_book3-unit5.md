@@ -50,7 +50,7 @@ It's a bit difficult to explain/describe と前置きし、but basically で具�
  - stewed の方がとろとろになるまで、simmerd はことこと煮る程度
  - chikuzenni is a simmerd dish consiting of ...
 * egg plant : なす
-* granted garlic/ginger : すりおろしのにんにく/しょうが
+* grated garlic/ginger : すりおろしのにんにく/しょうが
 * vinegard rice : 酢飯
 * rolled sushi : 巻き寿司
 * devil's tongue : こんにゃく
